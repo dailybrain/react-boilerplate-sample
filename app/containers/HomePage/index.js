@@ -18,6 +18,7 @@ export default class HomePage extends React.PureComponent { // eslint-disable-li
     return (
       <h1>
         <FormattedMessage {...messages.header} />
+        Salut le meetup ! (entreprise ready :)
       </h1>
     );
   }
